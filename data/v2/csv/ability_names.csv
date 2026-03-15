@@ -2676,6 +2676,7 @@ ability_id,local_language_id,name
 268,8,Odore Tenace
 268,9,Lingering Aroma
 268,11,とれないにおい
+268,12,甩不掉的气味
 269,1,こぼれダネ
 269,5,Semencier
 269,6,Streusaat
@@ -2683,6 +2684,7 @@ ability_id,local_language_id,name
 269,8,Spargisemi
 269,9,Seed Sower
 269,11,こぼれダネ
+269,12,掉出种子
 270,1,ねつこうかん
 270,5,Thermodynamique
 270,6,Thermowandel
@@ -2690,6 +2692,7 @@ ability_id,local_language_id,name
 270,8,Termoscambio
 270,9,Thermal Exchange
 270,11,ねつこうかん
+270,12,热交换
 271,1,いかりのこうら
 271,5,Courroupace
 271,6,Wutpanzer
@@ -2697,6 +2700,7 @@ ability_id,local_language_id,name
 271,8,Iraguscio
 271,9,Anger Shell
 271,11,いかりのこうら
+271,12,愤怒甲壳
 272,1,きよめのしお
 272,5,Sel Purificateur
 272,6,Läutersalz
@@ -2704,6 +2708,7 @@ ability_id,local_language_id,name
 272,8,Sale Purificante
 272,9,Purifying Salt
 272,11,きよめのしお
+272,12,洁净之盐
 273,1,こんがりボディ
 273,5,Bien Cuit
 273,6,Knusperkruste
@@ -2711,6 +2716,7 @@ ability_id,local_language_id,name
 273,8,Bentostato
 273,9,Well-Baked Body
 273,11,こんがりボディ
+273,12,焦香之躯
 274,1,かぜのり
 274,5,Aéroporté
 274,6,Windreiter
@@ -2718,6 +2724,7 @@ ability_id,local_language_id,name
 274,8,Vento Propizio
 274,9,Wind Rider
 274,11,かぜのり
+274,12,乘风
 275,1,ばんけん
 275,5,Chien de Garde
 275,6,Wachhund
@@ -2725,6 +2732,7 @@ ability_id,local_language_id,name
 275,8,Cane da Guardia
 275,9,Guard Dog
 275,11,ばんけん
+275,12,看门犬
 276,1,いわはこび
 276,5,Porte-Roche
 276,6,Steinträger
@@ -2732,6 +2740,7 @@ ability_id,local_language_id,name
 276,8,Portamassi
 276,9,Rocky Payload
 276,11,いわはこび
+276,12,搬岩
 277,1,ふうりょくでんき
 277,5,Turbine Éolienne
 277,6,Windkraft
@@ -2739,6 +2748,7 @@ ability_id,local_language_id,name
 277,8,Energia Eolica
 277,9,Wind Power
 277,11,ふうりょくでんき
+277,12,风力发电
 278,1,マイティチェンジ
 278,5,Supermutation
 278,6,Superwechsel
@@ -2746,6 +2756,7 @@ ability_id,local_language_id,name
 278,8,Supercambio
 278,9,Zero to Hero
 278,11,マイティチェンジ
+278,12,全能变身
 279,1,しれいとう
 279,5,Commandant
 279,6,Kommandant
@@ -2753,6 +2764,7 @@ ability_id,local_language_id,name
 279,8,Torre di Comando
 279,9,Commander
 279,11,しれいとう
+279,12,发号施令
 280,1,でんきにかえる
 280,5,Grecharge
 280,6,Dynamo
@@ -2760,6 +2772,7 @@ ability_id,local_language_id,name
 280,8,Convertivolt
 280,9,Electromorphosis
 280,11,でんきにかえる
+280,12,电力转换
 281,1,こだいかっせい
 281,5,Paléosynthèse
 281,6,Paläosynthese
@@ -2767,6 +2780,7 @@ ability_id,local_language_id,name
 281,8,Paleoattivazione
 281,9,Protosynthesis
 281,11,こだいかっせい
+281,12,古代活性
 282,1,クォークチャージ
 282,5,Charge Quantique
 282,6,Quantenantrieb
@@ -2774,6 +2788,7 @@ ability_id,local_language_id,name
 282,8,Carica Quark
 282,9,Quark Drive
 282,11,クォークチャージ
+282,12,夸克充能
 283,1,おうごんのからだ
 283,5,Corps en Or
 283,6,Goldkörper
@@ -2781,6 +2796,7 @@ ability_id,local_language_id,name
 283,8,Corpo Aureo
 283,9,Good as Gold
 283,11,おうごんのからだ
+283,12,黄金之躯
 284,1,わざわいのうつわ
 284,5,Urne du Fléau
 284,6,Unheilsgefäß
@@ -2788,6 +2804,7 @@ ability_id,local_language_id,name
 284,8,Vaso Nefasto
 284,9,Vessel of Ruin
 284,11,わざわいのうつわ
+284,12,灾祸之鼎
 285,1,わざわいのつるぎ
 285,5,Épée du Fléau
 285,6,Unheilsschwert
@@ -2795,6 +2812,7 @@ ability_id,local_language_id,name
 285,8,Spada Nefasta
 285,9,Sword of Ruin
 285,11,わざわいのつるぎ
+285,12,灾祸之剑
 286,1,わざわいのおふだ
 286,5,Bois du Fléau
 286,6,Unheilstafeln
@@ -2802,6 +2820,7 @@ ability_id,local_language_id,name
 286,8,Amuleto Nefasto
 286,9,Tablets of Ruin
 286,11,わざわいのおふだ
+286,12,灾祸之简
 287,1,わざわいのたま
 287,5,Perles du Fléau
 287,6,Unheilsjuwelen
@@ -2809,6 +2828,7 @@ ability_id,local_language_id,name
 287,8,Monile Nefasto
 287,9,Beads of Ruin
 287,11,わざわいのたま
+287,12,灾祸之玉
 288,1,ひひいろのこどう
 288,5,Pouls Orichalque
 288,6,Orichalkum-Puls
@@ -2816,6 +2836,7 @@ ability_id,local_language_id,name
 288,8,Ritmo d’Oricalco
 288,9,Orichalcum Pulse
 288,11,ひひいろのこどう
+288,12,绯红脉动
 289,1,ハドロンエンジン
 289,5,Moteur à Hadrons
 289,6,Hadronen-Motor
@@ -2823,6 +2844,7 @@ ability_id,local_language_id,name
 289,8,Motore Adronico
 289,9,Hadron Engine
 289,11,ハドロンエンジン
+289,12,强子引擎
 290,1,びんじょう
 290,5,Opportuniste
 290,6,Profiteur
@@ -2830,6 +2852,7 @@ ability_id,local_language_id,name
 290,8,Scrocco
 290,9,Opportunist
 290,11,びんじょう
+290,12,跟风
 291,1,はんすう
 291,5,Ruminant
 291,6,Wiederkäuer
@@ -2837,6 +2860,7 @@ ability_id,local_language_id,name
 291,8,Ruminante
 291,9,Cud Chew
 291,11,はんすう
+291,12,反刍
 292,1,きれあじ
 292,5,Incisif
 292,6,Scharfkantig
@@ -2844,6 +2868,7 @@ ability_id,local_language_id,name
 292,8,Affilama
 292,9,Sharpness
 292,11,きれあじ
+292,12,锋锐
 293,1,そうだいしょう
 293,5,Général Suprême
 293,6,Feldherr
@@ -2851,6 +2876,7 @@ ability_id,local_language_id,name
 293,8,Generale Supremo
 293,9,Supreme Overlord
 293,11,そうだいしょう
+293,12,大将
 294,1,きょうえん
 294,5,Collab
 294,6,Synchronauftritt
@@ -2858,6 +2884,7 @@ ability_id,local_language_id,name
 294,8,Coprotagonismo
 294,9,Costar
 294,11,きょうえん
+294,12,同台共演
 295,1,どくげしょう
 295,5,Dépôt Toxique
 295,6,Giftbelag
@@ -2865,6 +2892,7 @@ ability_id,local_language_id,name
 295,8,Mantossina
 295,9,Toxic Debris
 295,11,どくげしょう
+295,12,毒满地
 296,1,テイルアーマー
 296,5,Armure Caudale
 296,6,Schweifrüstung
@@ -2872,6 +2900,7 @@ ability_id,local_language_id,name
 296,8,Codarmatura
 296,9,Armor Tail
 296,11,テイルアーマー
+296,12,尾甲
 297,1,どしょく
 297,5,Absorbe-Terre
 297,6,Bodenschmaus
@@ -2879,6 +2908,7 @@ ability_id,local_language_id,name
 297,8,Mangiaterra
 297,9,Earth Eater
 297,11,どしょく
+297,12,食土
 298,1,きんしのちから
 298,5,Force Fongique
 298,6,Myzelienkraft
@@ -2886,6 +2916,7 @@ ability_id,local_language_id,name
 298,8,Micoforza
 298,9,Mycelium Might
 298,11,きんしのちから
+298,12,菌丝之力
 299,1,しんがん
 299,3,심안
 299,4,心眼
@@ -2896,12 +2927,12 @@ ability_id,local_language_id,name
 299,11,しんがん
 299,12,心眼
 300,1,かんろなミツ
-300,3,감미로운꿀
-300,4,甘露之蜜
-300,5,Nectar Mielleux
 300,1,かんろなミツ
 300,3,감미로운꿀
+300,3,감미로운꿀
 300,4,甘露之蜜
+300,4,甘露之蜜
+300,5,Nectar Mielleux
 300,5,Nectar Mielleux
 300,6,Süßer Nektar
 300,7,Néctar Dulce

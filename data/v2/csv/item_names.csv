@@ -1135,72 +1135,84 @@ item_id,local_language_id,name
 114,7,Carta Hierba
 114,8,Mess. Erba
 114,9,Grass Mail
+114,12,青草邮件
 115,1,フレイムメール
 115,5,Lettre Feu
 115,6,Feuerbrief
 115,7,Carta Fuego
 115,8,Mess. Fiamma
 115,9,Flame Mail
+115,12,火焰邮件
 116,1,ブルーメール
 116,5,Lettre Mer
 116,6,Wasserbrief
 116,7,Carta Pompas
 116,8,Mess. Bolla
 116,9,Bubble Mail
+116,12,水蓝邮件
 117,1,ブルームメール
 117,5,Lett. Pétale
 117,6,Blütenbrief
 117,7,Carta Flores
 117,8,Mess. Petalo
 117,9,Bloom Mail
+117,12,绽放邮件
 118,1,トンネルメール
 118,5,Lettre Mine
 118,6,Minenbrief
 118,7,Carta Mina
 118,8,Mess. Tunnel
 118,9,Tunnel Mail
+118,12,隧道邮件
 119,1,スチールメール
 119,5,Lettre Acier
 119,6,Stahlbrief
 119,7,Carta Acero
 119,8,Mess. Lega
 119,9,Steel Mail
+119,12,钢铁邮件
 120,1,ラブラブメール
 120,5,Lettre Coeur
 120,6,Rosabrief
 120,7,Car. Corazón
 120,8,Mess. Cuore
 120,9,Heart Mail
+120,12,甜蜜邮件
 121,1,ブリザードメール
 121,5,Lettre Neige
 121,6,Schneebrief
 121,7,Carta Nieve
 121,8,Mess. Neve
 121,9,Snow Mail
+121,12,暴雪邮件
 122,1,スペースメール
 122,5,Lettre Cosmo
 122,6,Sternbrief
 122,7,Car. Sideral
 122,8,Mess. Spazio
 122,9,Space Mail
+122,12,空间邮件
 123,1,エアメール
 123,5,Lettre Avion
 123,6,Luftbrief
 123,7,Carta Aérea
 123,8,Mess. Aereo
 123,9,Air Mail
+123,12,天空邮件
 124,1,モザイクメール
 124,5,Lettremosaïk
 124,6,Mosaikbrief
 124,7,Car. Mosaico
 124,8,Mess. Iride
 124,9,Mosaic Mail
+124,12,彩嵌邮件
 125,1,ブリックメール
 125,5,Lettre Brik
 125,6,Ziegelbrief
 125,7,Carta Pared
 125,8,Mess. Muro
 125,9,Brick Mail
+125,12,砖块邮件
 126,1,クラボのみ
 126,3,버치열매
 126,4,櫻子果
@@ -4214,6 +4226,7 @@ item_id,local_language_id,name
 427,7,Bici
 427,8,Bicicletta
 427,9,Bicycle
+427,12,自行车
 428,1,ルームキー
 428,3,룸키
 428,4,房間鑰匙
@@ -5090,72 +5103,84 @@ item_id,local_language_id,name
 515,7,Car. Naranja
 515,8,Mess. Agrume
 515,9,Orange Mail
+515,12,橙色邮件
 516,1,ハーバーメール
 516,5,Lettre Port
 516,6,Hafenbrief
 516,7,Carta Puerto
 516,8,Mess. Porto
 516,9,Harbor Mail
+516,12,港口邮件
 517,1,キラキラメール
 517,5,Lettre Brill
 517,6,Glitzerbrief
 517,7,Carta Brillo
 517,8,Mess. Luci
 517,9,Glitter Mail
+517,12,闪亮邮件
 518,1,メカニカルメール
 518,5,Lettre Méca
 518,6,Eilbrief
 518,7,Carta Imán
 518,8,Mess. Tecno
 518,9,Mech Mail
+518,12,机械邮件
 519,1,ウッディメール
 519,5,Lettre Bois
 519,6,Waldbrief
 519,7,Carta Madera
 519,8,Mess. Bosco
 519,9,Wood Mail
+519,12,木纹邮件
 520,1,クロスメール
 520,5,Lettre Vague
 520,6,Wellenbrief
 520,7,Carta Ola
 520,8,Mess. Onda
 520,9,Wave Mail
+520,12,波涛邮件
 521,1,トレジャーメール
 521,5,Lettre Bulle
 521,6,Perlenbrief
 521,7,Carta Imagen
 521,8,Mess. Perle
 521,9,Bead Mail
+521,12,珠宝邮件
 522,1,シャドーメール
 522,5,Lettre Ombre
 522,6,Dunkelbrief
 522,7,Carta Sombra
 522,8,Mess. Ombra
 522,9,Shadow Mail
+522,12,影子邮件
 523,1,トロピカルメール
 523,5,Lettre Tropi
 523,6,Tropenbrief
 523,7,Car. Tropic.
 523,8,Mess. Tropic
 523,9,Tropic Mail
+523,12,热带邮件
 524,1,ドリームメール
 524,5,Lettre Songe
 524,6,Traumbrief
 524,7,Carta Sueño
 524,8,Mess. Sogno
 524,9,Dream Mail
+524,12,梦境邮件
 525,1,ミラクルメール
 525,5,Lettre Cool
 525,6,Edelbrief
 525,7,Carta Fab.
 525,8,Mess. Lusso
 525,9,Fab Mail
+525,12,奇迹邮件
 526,1,レトロメール
 526,5,Lettre Retro
 526,6,Retrobrief
 526,7,Carta Retro.
 526,8,Mess. Rétro
 526,9,Retro Mail
+526,12,复古邮件
 527,1,マッハじてんしゃ
 527,3,마하자전거
 527,4,音速自行車
@@ -5192,6 +5217,7 @@ item_id,local_language_id,name
 530,7,Piezas Devon
 530,8,Merce Devon
 530,9,Devon Goods
+530,12,得文的物品
 531,1,はいぶくろ
 531,3,재주머니
 531,4,集灰袋
@@ -5208,6 +5234,7 @@ item_id,local_language_id,name
 532,7,Tubo Pokécubos
 532,8,PortaPokémelle
 532,9,Pokéblock Case
+532,12,宝可方块盒
 533,1,ダイゴへのてがみ
 533,3,성호에게줄편지
 533,4,給大吾的信
@@ -5264,24 +5291,28 @@ item_id,local_language_id,name
 538,7,Ll. Cabina 1
 538,8,Chiave Cab.1
 538,9,Rm. 1 Key
+538,12,１号客房的钥匙
 539,1,２ごうしつのカギ
 539,5,Clé Salle 2
 539,6,K2-Schlüssel
 539,7,Ll. Cabina 2
 539,8,Chiave Cab.2
 539,9,Rm. 2 Key
+539,12,２号客房的钥匙
 540,1,４ごうしつのカギ
 540,5,Clé Salle 4
 540,6,K4-Schlüssel
 540,7,Ll. Cabina 4
 540,8,Chiave Cab.4
 540,9,Rm. 4 Key
+540,12,４号客房的钥匙
 541,1,６ごうしつのカギ
 541,5,Clé Salle 6
 541,6,K6-Schlüssel
 541,7,Ll. Cabina 6
 541,8,Chiave Cab.6
 541,9,Rm. 6 Key
+541,12,６号客房的钥匙
 542,1,デボンスコープ
 542,3,데봉스코프
 542,4,得文偵測鏡
@@ -5314,6 +5345,7 @@ item_id,local_language_id,name
 545,7,Bono Bici
 545,8,Buono Bici
 545,9,Bike Voucher
+545,12,兌換券
 546,1,きんのいれば
 546,3,금틀니
 546,4,金假牙
@@ -5350,6 +5382,7 @@ item_id,local_language_id,name
 549,7,Memorín
 549,8,PokéVIP
 549,9,Fame Checker
+549,12,声音记录器
 550,1,わざマシンケース
 550,3,기술머신케이스
 550,4,招式學習器盒
@@ -5366,24 +5399,28 @@ item_id,local_language_id,name
 551,7,Saco Bayas
 551,8,Portabacche
 551,9,Berry Pouch
+551,12,树果袋
 552,1,おしえテレビ
 552,5,TV ABC
 552,6,Lehrkanal
 552,7,Poké Tele
 552,8,Pokétivù
 552,9,Teachy TV
+552,12,教学电视
 553,1,トライパス
 553,5,Tri-Passe
 553,6,Tri-Pass
 553,7,Tri-Ticket
 553,8,Tris Pass
 553,9,Tri-Pass
+553,12,三岛通行船券
 554,1,レインボーパス
 554,5,Passe Prisme
 554,6,Bunt-Pass
 554,7,Iris-Ticket
 554,8,Sette Pass
 554,9,Rainbow Pass
+554,12,七彩通行船券
 555,1,おちゃ
 555,3,차
 555,4,茶
@@ -5400,42 +5437,49 @@ item_id,local_language_id,name
 556,7,Misti-Ticket
 556,8,Bigl. Magico
 556,9,MysticTicket
+556,12,神秘船票
 557,1,オーロラチケット
 557,5,Ticketaurora
 557,6,Auroraticket
 557,7,Ori-Ticket
 557,8,Bigl. Aurora
 557,9,AuroraTicket
+557,12,极光船票
 558,1,こないれ
 558,5,Pot Poudre
 558,6,Puderdöschen
 558,7,Bote Polvos
 558,8,Portafarina
 558,9,Powder Jar
+558,12,粉末瓶
 559,1,ルビー
 559,5,Rubis
 559,6,Rubin
 559,7,Rubí
 559,8,Rubino
 559,9,Ruby
+559,12,红宝石
 560,1,サファイア
 560,5,Saphir
 560,6,Saphir
 560,7,Zafiro
 560,8,Zaffiro
 560,9,Sapphire
+560,12,蓝宝石
 561,1,マグマのしるし
 561,5,Sceau Magma
 561,6,Magmaemblem
 561,7,Signo Magma
 561,8,Stemma Magma
 561,9,Magma Emblem
+561,12,熔岩标志
 562,1,ふるびたかいず
 562,5,Vieillecarte
 562,6,Alte Karte
 562,7,Mapa Viejo
 562,8,Mappa Stinta
 562,9,Old Sea Map
+562,12,古航海图
 563,1,アクアカセット
 563,3,아쿠아카세트
 563,4,水流卡帶
@@ -15883,41 +15927,49 @@ item_id,local_language_id,name
 1659,5,Globe Adamant
 1659,9,Adamant Crystal
 1659,11,だいこんごうだま
+1659,12,大金刚宝玉
 1660,1,だいしらたま
 1660,4,大白宝玉
 1660,5,Globe Perlé
 1660,9,Lustrous Globe
 1660,11,だいしらたま
+1660,12,大白宝玉
 1661,1,だいはっきんだま
 1661,4,大白金宝玉
 1661,5,Globe Platiné
 1661,9,Griseous Core
 1661,11,だいはっきんだま
+1661,12,大白金宝玉
 1662,1,まっさらプレート
 1662,4,净空石板
 1662,5,Plaque Renouveau
 1662,9,Blank Plate
 1662,11,まっさらプレート
+1662,12,净空石板
 1663,1,ストレンジボール
 1663,4,奇异球
 1663,5,Étrange Ball
 1663,9,Strange Ball
 1663,11,ストレンジボール
+1663,12,奇异球
 1664,1,レジェンドプレート
 1664,4,传说石板
 1664,5,Plaque Légende
 1664,9,Legend Plate
 1664,11,レジェンドプレート
+1664,12,传说石板
 1665,1,スマホロトム
 1665,4,手机洛托姆
 1665,5,Motismart
 1665,9,Rotom Phone
 1665,11,スマホロトム
+1665,12,手机洛托姆
 1666,1,サンドウィッチ
 1666,4,三明治
 1666,5,Sandwich
 1666,9,Sandwich
 1666,11,サンドウィッチ
+1666,12,三明治
 1667,1,コライドンのボール
 1667,4,故勒顿的球
 1667,5,Poké Ball de Koraidon
@@ -15933,16 +15985,19 @@ item_id,local_language_id,name
 1669,5,Orbe Téracristal
 1669,9,Tera Orb
 1669,11,テラスタルオーブ
+1669,12,太晶珠
 1670,1,スカーレットブック
 1670,4,朱之书
 1670,5,Livre Écarlate
 1670,9,Scarlet Book
 1670,11,スカーレットブック
+1670,12,朱之书
 1671,1,バイオレットブック
 1671,4,紫之书
 1671,5,Livre Violet
 1671,9,Violet Book
 1671,11,バイオレットブック
+1671,12,紫之书
 1672,1,ハイダイのサイフ
 1672,4,海岱的钱包
 1672,5,Portefeuille de Kombu
@@ -15953,446 +16008,535 @@ item_id,local_language_id,name
 1673,5,Petit Bambou
 1673,9,Tiny Bamboo Shoot
 1673,11,ちいさなタケノコ
+1673,12,小竹笋
 1674,1,おおきなタケノコ
 1674,4,大竹笋
 1674,5,Gros Bambou
 1674,9,Big Bamboo Shoot
 1674,11,おおきなタケノコ
+1674,12,大竹笋
 1675,1,あくのかけじく
 1675,4,恶之挂轴
 1675,5,Rouleau des Ténèbres
 1675,9,Scroll of Darkness
 1675,11,あくのかけじく
+1675,12,恶之挂轴
 1676,1,みずのかけじく
 1676,4,水之挂轴
 1676,5,Rouleau de l'Eau
 1676,9,Scroll of Waters
 1676,11,みずのかけじく
+1676,12,水之挂轴
 1677,1,ノロイノヨロイ
 1677,4,咒术之铠
 1677,5,Armure de la Rancune
 1677,9,Malicious Armor
 1677,11,ノロイノヨロイ
+1677,12,咒术之铠
 1678,1,テラピースノーマル
 1678,4,一般太晶碎块
 1678,5,Téra-Éclat Normal
 1678,9,Normal Tera Shard
 1678,11,テラピースノーマル
+1678,12,一般太晶碎块
 1679,1,テラピースほのお
 1679,4,火太晶碎块
 1679,5,Téra-Éclat Feu
 1679,9,Fire Tera Shard
 1679,11,テラピースほのお
+1679,12,火太晶碎块
 1680,1,テラピースみず
 1680,4,水太晶碎块
 1680,5,Téra-Éclat Eau
 1680,9,Water Tera Shard
 1680,11,テラピースみず
+1680,12,水太晶碎块
 1681,1,テラピースでんき
 1681,4,电太晶碎块
 1681,5,Téra-Éclat Électrik
 1681,9,Electric Tera Shard
 1681,11,テラピースでんき
+1681,12,电太晶碎块
 1682,1,テラピースくさ
 1682,4,草太晶碎块
 1682,5,Téra-Éclat Plante
 1682,9,Grass Tera Shard
 1682,11,テラピースくさ
+1682,12,草太晶碎块
 1683,1,テラピースこおり
 1683,4,冰太晶碎块
 1683,5,Téra-Éclat Glace
 1683,9,Ice Tera Shard
 1683,11,テラピースこおり
+1683,12,冰太晶碎块
 1684,1,テラピースかくとう
 1684,4,格斗太晶碎块
 1684,5,Téra-Éclat Combat
 1684,9,Fighting Tera Shard
 1684,11,テラピースかくとう
+1684,12,格斗太晶碎块
 1685,1,テラピースどく
 1685,4,毒太晶碎块
 1685,5,Téra-Éclat Poison
 1685,9,Poison Tera Shard
 1685,11,テラピースどく
+1685,12,毒太晶碎块
 1686,1,テラピースじめん
 1686,4,地面太晶碎块
 1686,5,Téra-Éclat Sol
 1686,9,Ground Tera Shard
 1686,11,テラピースじめん
+1686,12,地面太晶碎块
 1687,1,テラピースひこう
 1687,4,飞行太晶碎块
 1687,5,Téra-Éclat Vol
 1687,9,Flying Tera Shard
 1687,11,テラピースひこう
+1687,12,飞行太晶碎块
 1688,1,テラピースエスパー
 1688,4,超能力太晶碎块
 1688,5,Téra-Éclat Psy
 1688,9,Psychic Tera Shard
 1688,11,テラピースエスパー
+1688,12,超能力太晶碎块
 1689,1,テラピースむし
 1689,4,虫太晶碎块
 1689,5,Téra-Éclat Insecte
 1689,9,Bug Tera Shard
 1689,11,テラピースむし
+1689,12,虫太晶碎块
 1690,1,テラピースいわ
 1690,4,岩石太晶碎块
 1690,5,Téra-Éclat Roche
 1690,9,Rock Tera Shard
 1690,11,テラピースいわ
+1690,12,岩石太晶碎块
 1691,1,テラピースゴースト
 1691,4,幽灵太晶碎块
 1691,5,Téra-Éclat Spectre
 1691,9,Ghost Tera Shard
 1691,11,テラピースゴースト
+1691,12,幽灵太晶碎块
 1692,1,テラピースドラゴン
 1692,4,龙太晶碎块
 1692,5,Téra-Éclat Dragon
 1692,9,Dragon Tera Shard
 1692,11,テラピースドラゴン
+1692,12,龙太晶碎块
 1693,1,テラピースあく
 1693,4,恶太晶碎块
 1693,5,Téra-Éclat Ténèbres
 1693,9,Dark Tera Shard
 1693,11,テラピースあく
+1693,12,恶太晶碎块
 1694,1,テラピースはがね
 1694,4,钢太晶碎块
 1694,5,Téra-Éclat Acier
 1694,9,Steel Tera Shard
 1694,11,テラピースはがね
+1694,12,钢太晶碎块
 1695,1,テラピースフェアリー
 1695,4,妖精太晶碎块
 1695,5,Téra-Éclat Fée
 1695,9,Fairy Tera Shard
 1695,11,テラピースフェアリー
+1695,12,妖精太晶碎块
 1696,1,ブーストエナジー
 1696,4,驱劲能量
 1696,5,Énergie Booster
 1696,9,Booster Energy
 1696,11,ブーストエナジー
+1696,12,驱劲能量
 1697,1,とくせいガード
 1697,4,特性护具
 1697,5,Garde-Talent
 1697,9,Ability Shield
 1697,11,とくせいガード
+1697,12,特性护具
 1698,1,クリアチャーム
 1698,4,清净坠饰
 1698,5,Talisman Sain
 1698,9,Clear Amulet
 1698,11,クリアチャーム
+1698,12,清净坠饰
 1699,1,ものまねハーブ
 1699,4,模仿香草
 1699,5,Feuille Copieuse
 1699,9,Mirror Herb
 1699,11,ものまねハーブ
+1699,12,模仿香草
 1700,1,パンチグローブ
 1700,4,拳击手套
 1700,5,Gant de Boxe
 1700,9,Punching Glove
 1700,11,パンチグローブ
+1700,12,拳击手套
 1701,1,おんみつマント
 1701,4,密探斗篷
 1701,5,Cape Obscure
 1701,9,Covert Cloak
 1701,11,おんみつマント
+1701,12,密探斗篷
 1702,1,いかさまダイス
 1702,4,机变骰子
 1702,5,Dé Pipé
 1702,9,Loaded Dice
 1702,11,いかさまダイス
+1702,12,机变骰子
 1703,1,バケット
 1703,4,长棍面包
 1703,5,Baguette
 1703,9,Baguette
 1703,11,バケット
+1703,12,长棍面包
 1704,1,マヨネーズ
 1704,4,蛋黄酱
 1704,5,Mayonnaise
 1704,9,Mayonnaise
 1704,11,マヨネーズ
+1704,12,蛋黄酱
 1705,1,ケチャップ
 1705,4,番茄酱
 1705,5,Ketchup
 1705,9,Ketchup
 1705,11,ケチャップ
+1705,12,番茄酱
 1706,1,マスタード
 1706,4,黄芥末酱
 1706,5,Moutarde
 1706,9,Mustard
 1706,11,マスタード
+1706,12,黄芥末酱
 1707,1,バター
 1707,4,黄油
 1707,5,Beurre
 1707,9,Butter
 1707,11,バター
+1707,12,黄油
 1708,1,ピーナッツバター
 1708,4,花生酱
 1708,5,Beurre de Cacahuètes
 1708,9,Peanut Butter
 1708,11,ピーナッツバター
+1708,12,花生酱
 1709,1,チリソース
 1709,4,辣酱
 1709,5,Sauce Piquante
 1709,9,Chili Sauce
 1709,11,チリソース
+1709,12,辣酱
 1710,1,ソルト
 1710,4,盐
 1710,5,Sel
 1710,9,Salt
 1710,11,ソルト
+1710,12,盐
 1711,1,ペッパー
 1711,4,胡椒
 1711,5,Poivre
 1711,9,Pepper
 1711,11,ペッパー
+1711,12,胡椒
 1712,1,ヨーグルト
 1712,4,酸奶
 1712,5,Yaourt
 1712,9,Yogurt
 1712,11,ヨーグルト
+1712,12,酸奶
 1713,1,ホイップクリーム
 1713,4,鲜奶油
 1713,5,Creme Fouettée
 1713,9,Whipped Cream
 1713,11,ホイップクリーム
+1713,12,鲜奶油
 1714,1,クリームチーズ
 1714,4,奶油芝士
 1714,5,Fromage Frais
 1714,9,Cream Cheese
 1714,11,クリームチーズ
+1714,12,奶油芝士
 1715,1,ベリージャム
 1715,4,莓果酱
 1715,5,Confiture de Baies
 1715,9,Jam
 1715,11,ベリージャム
+1715,12,莓果酱
 1716,1,マーマレード
 1716,4,橘子酱
 1716,5,Marmelade
 1716,9,Marmalade
 1716,11,マーマレード
+1716,12,橘子酱
 1717,1,オリーブオイル
 1717,4,橄榄油
 1717,5,Huile d'Olive
 1717,9,Olive Oil
 1717,11,オリーブオイル
+1717,12,橄榄油
 1718,1,ビネガー
 1718,4,醋
 1718,5,Vinaigre
 1718,9,Vinegar
 1718,11,ビネガー
+1718,12,醋
 1719,1,ひでん：あまスパイス
 1719,4,秘传：甜味料
 1719,5,Épice Secrète Sucrée
 1719,9,Sweet Herba Mystica
 1719,11,ひでん：あまスパイス
+1719,12,秘传：甜味料
 1720,1,ひでん：しおスパイス
 1720,4,秘传：咸味料
 1720,5,Épice Secrète Salée
 1720,9,Salty Herba Mystica
 1720,11,ひでん：しおスパイス
+1720,12,秘传：咸味料
 1721,1,ひでん：すぱスパイス
 1721,4,秘传：酸味料
 1721,5,Épice Secrète Acide
 1721,9,Sour Herba Mystica
 1721,11,ひでん：すぱスパイス
+1721,12,秘传：酸味料
 1722,1,ひでん：にがスパイス
 1722,4,秘传：苦味料
 1722,5,Épice Secrète Amère
 1722,9,Bitter Herba Mystica
 1722,11,ひでん：にがスパイス
+1722,12,秘传：苦味料
 1723,1,ひでん：からスパイス
 1723,4,秘传：辣味料
 1723,5,Épice Secrète Corsée
 1723,9,Spicy Herba Mystica
 1723,11,ひでん：からスパイス
+1723,12,秘传：辣味料
 1724,1,レタス
 1724,4,生菜
 1724,5,Laitue
 1724,9,Lettuce
 1724,11,レタス
+1724,12,生菜
 1725,1,トマトスライス
 1725,4,西红柿片
 1725,5,Tomate
 1725,9,Tomato
 1725,11,トマトスライス
+1725,12,番茄片
 1726,1,カットミニトマト
 1726,4,小西红柿块
 1726,5,Tomate Cerise
 1726,9,Cherry Tomatoes
 1726,11,カットミニトマト
+1726,12,小番茄块
 1727,1,キュウリスライス
 1727,4,小黄瓜片
 1727,5,Concombre
 1727,9,Cucumber
 1727,11,キュウリスライス
+1727,12,小黄瓜片
 1728,1,ピクルススライス
 1728,4,酸黄瓜片
 1728,5,Cornichon
 1728,9,Pickle
 1728,11,ピクルススライス
+1728,12,酸黄瓜片
 1729,1,たまねぎスライス
 1729,4,洋葱片
 1729,5,Oignon
 1729,9,Onion
 1729,11,たまねぎスライス
+1729,12,洋葱片
 1730,1,アーリーレッド
 1730,4,红洋葱
 1730,5,Oignon Rouge
 1730,9,Red Onion
 1730,11,アーリーレッド
+1730,12,红洋葱
 1731,1,ピーマンスライス
 1731,4,青椒片
 1731,5,Poivron Vert
 1731,9,Green Bell Pepper
 1731,11,ピーマンスライス
+1731,12,青椒片
 1732,1,あかパプリカスライス
 1732,4,红椒片
 1732,5,Poivron Rouge
 1732,9,Red Bell Pepper
 1732,11,あかパプリカスライス
+1732,12,红椒片
 1733,1,きパプリカスライス
 1733,4,黄椒片
 1733,5,Poivron Jaune
 1733,9,Yellow Bell Pepper
 1733,11,きパプリカスライス
+1733,12,黄椒片
 1734,1,アボカド
 1734,4,牛油果
 1734,5,Avocat
 1734,9,Avocado
 1734,11,アボカド
+1734,12,牛油果
 1735,1,やきベーコン
 1735,4,煎培根
 1735,5,Bacon
 1735,9,Bacon
 1735,11,やきベーコン
+1735,12,煎培根
 1736,1,ハムスライス
 1736,4,火腿片
 1736,5,Jambon Blanc
 1736,9,Ham
 1736,11,ハムスライス
+1736,12,火腿片
 1737,1,なまハム
 1737,4,生火腿
 1737,5,Jambon Cru
 1737,9,Prosciutto
 1737,11,なまハム
+1737,12,生火腿
 1738,1,やきチョリソー
 1738,4,煎辣香肠
 1738,5,Chorizo Grillé
 1738,9,Chorizo
 1738,11,やきチョリソー
+1738,12,煎辣香肠
 1739,1,ハーブソーセージ
 1739,4,香草香肠
 1739,5,Saucisse aux Herbes
 1739,9,Herbed Sausage
 1739,11,ハーブソーセージ
+1739,12,香草香肠
 1740,1,ハンバーグ
 1740,4,汉堡排
 1740,5,Steak Haché
 1740,9,Hamburger
 1740,11,ハンバーグ
+1740,12,汉堡排
 1741,1,ガケガニスティック
 1741,4,毛崖蟹棒
 1741,5,Bâtonnet de Craparoi
 1741,9,Klawf Stick
 1741,11,ガケガニスティック
+1741,12,毛崖蟹棒
 1742,1,スモークきりみ
 1742,4,烟熏鱼片
 1742,5,Filet Fumé
 1742,9,Smoked Fillet
 1742,11,スモークきりみ
+1742,12,烟熏鱼片
 1743,1,きりみフライ
 1743,4,炸鱼片
 1743,5,Filet Frit
 1743,9,Fried Fillet
 1743,11,きりみフライ
+1743,12,炸鱼片
 1744,1,スライスエッグ
 1744,4,水煮蛋片
 1744,5,Œuf
 1744,9,Egg
 1744,11,スライスエッグ
+1744,12,水煮蛋片
 1745,1,トルティージャ
 1745,4,烘蛋
 1745,5,Tortilla
 1745,9,Potato Tortilla
 1745,11,トルティージャ
+1745,12,烘蛋
 1746,1,トーフ
 1746,4,豆腐
 1746,5,Tofu
 1746,9,Tofu
 1746,11,トーフ
+1746,12,豆腐
 1747,1,ライス
 1747,4,米饭
 1747,5,Riz
 1747,9,Rice
 1747,11,ライス
+1747,12,米饭
 1748,1,ヌードル
 1748,4,面条
 1748,5,Nouilles
 1748,9,Noodles
 1748,11,ヌードル
+1748,12,面条
 1749,1,ポテトサラダ
 1749,4,土豆色拉
 1749,5,Salade de Patates
 1749,9,Potato Salad
 1749,11,ポテトサラダ
+1749,12,土豆沙拉
 1750,1,スライスチーズ
 1750,4,芝士片
 1750,5,Fromage
 1750,9,Cheese
 1750,11,スライスチーズ
+1750,12,芝士片
 1751,1,バナナスライス
 1751,4,香蕉片
 1751,5,Banane
 1751,9,Banana
 1751,11,バナナスライス
+1751,12,香蕉片
 1752,1,いちごスライス
 1752,4,草莓片
 1752,5,Fraise
 1752,9,Strawberry
 1752,11,いちごスライス
+1752,12,草莓片
 1753,1,わぎりリンゴ
 1753,4,苹果片
 1753,5,Pomme
 1753,9,Apple
 1753,11,わぎりリンゴ
+1753,12,苹果片
 1754,1,わぎりキウイ
 1754,4,奇异果片
 1754,5,Kiwi
 1754,9,Kiwi
 1754,11,わぎりキウイ
+1754,12,奇异果片
 1755,1,カットパイン
 1755,4,凤梨片
 1755,5,Ananas
 1755,9,Pineapple
 1755,11,カットパイン
+1755,12,凤梨片
 1756,1,バラペーニョ
 1756,4,小辣椒
 1756,5,Piment
 1756,9,Jalapeño
 1756,11,バラペーニョ
+1756,12,小辣椒
 1757,1,ホースラディッシュ
 1757,4,辣根
 1757,5,Raifort
 1757,9,Horseradish
 1757,11,ホースラディッシュ
+1757,12,辣根
 1758,1,カレーパウダー
 1758,4,咖喱粉
 1758,5,Curry en Poudre
 1758,9,Curry Powder
 1758,11,カレーパウダー
+1758,12,咖喱粉
 1759,1,ワサビソース
 1759,4,芥末酱
 1759,5,Sauce au Wasabi
 1759,9,Wasabi
 1759,11,ワサビソース
+1759,12,芥末酱
 1760,1,クレソン
 1760,4,豆瓣菜
 1760,5,Cresson
 1760,9,Watercress
 1760,11,クレソン
+1760,12,豆瓣菜
 1761,1,バジル
 1761,4,罗勒
 1761,5,Basilic
 1761,9,Basil
 1761,11,バジル
+1761,12,罗勒
 1762,1,コンパンのキバ
 1762,4,毛球的牙
 1762,5,Croc de Mimitoss
@@ -17278,6 +17422,7 @@ item_id,local_language_id,name
 1938,5,Pièce de Mordudor
 1938,9,Gimmighoul Coin
 1938,11,コレクレーのコイン
+1938,12,索财灵的硬币
 1939,1,カヌチャンのけ
 1939,4,小锻匠的毛
 1939,5,Poils de Forgerette
@@ -17658,136 +17803,163 @@ item_id,local_language_id,name
 2015,5,Set de Pique-Nique
 2015,9,Picnic Set
 2015,11,ピクニックセット
+2015,12,野餐组合
 2016,1,スクールボトル
 2016,4,校园水壶
 2016,5,Gourde de l'Académie
 2016,9,Academy Bottle
 2016,11,スクールボトル
+2016,12,校园水壶
 2018,1,みずたまボトル
 2018,4,圆点水壶
 2018,5,Gourde à Pois
 2018,9,Polka-Dot Bottle
 2018,11,みずたまボトル
+2018,12,圆点水壶
 2019,1,ストライプボトル
 2019,4,条纹水壶
 2019,5,Gourde à Rayures
 2019,9,Striped Bottle
 2019,11,ストライプボトル
+2019,12,条纹水壶
 2020,1,ダイヤボトル
 2020,4,菱纹水壶
 2020,5,Gourde à Losanges
 2020,9,Diamond Bottle
 2020,11,ダイヤボトル
+2020,12,菱纹水壶
 2021,1,スクールカップ
 2021,4,校园水杯
 2021,5,Tasse de l'Académie
 2021,9,Academy Cup
 2021,11,スクールカップ
+2021,12,校园水杯
 2023,1,たてストライプカップ
 2023,4,直条纹水杯
 2023,5,Tasse à Rayures Jaunes
 2023,9,Striped Cup
 2023,11,たてストライプカップ
+2023,12,直条纹水杯
 2024,1,みずたまカップ
 2024,4,圆点水杯
 2024,5,Tasse à Pois
 2024,9,Polka-Dot Cup
 2024,11,みずたまカップ
+2024,12,圆点水杯
 2025,1,フラワーカップ
 2025,4,花朵水杯
 2025,5,Tasse à Fleurs
 2025,9,Flower Pattern Cup
 2025,11,フラワーカップ
+2025,12,花朵水杯
 2026,1,スクールクロス
 2026,4,校园桌巾
 2026,5,Nappe de l'Académie
 2026,9,Academy Tablecloth
 2026,11,スクールクロス
+2026,12,校园桌巾
 2028,1,ファンシークロス
 2028,4,幻彩桌巾
 2028,5,Nappe Fantaisie
 2028,9,Whimsical Tablecloth
 2028,11,ファンシークロス
+2028,12,幻彩桌巾
 2029,1,ネイチャークロス
 2029,4,大自然桌巾
 2029,5,Nappe Verdoyante
 2029,9,Leafy Tablecloth
 2029,11,ネイチャークロス
+2029,12,大自然桌巾
 2030,1,うらめしクロス
 2030,4,鬼祟桌巾
 2030,5,Nappe Hantée
 2030,9,Spooky Tablecloth
 2030,11,うらめしクロス
+2030,12,鬼祟桌巾
 2031,1,スクールボール
 2031,4,校园球
 2031,5,Ballon de l'Académie
 2031,9,Academy Ball
 2031,11,スクールボール
+2031,12,校园球
 2033,1,マリルボール
 2033,4,玛力露球
 2033,5,Ballon Marill
 2033,9,Marill Ball
 2033,11,マリルボール
+2033,12,玛力露球
 2034,1,けいとボール
 2034,4,毛线球
 2034,5,Pelote de Laine
 2034,9,Yarn Ball
 2034,11,けいとボール
+2034,12,毛线球
 2035,1,ゲーミングボール
 2035,4,电竞球
 2035,5,Ballon Gaming
 2035,9,Cyber Ball
 2035,11,ゲーミングボール
+2035,12,电竞球
 2036,1,ゴールドピック
 2036,4,金色三明治签
 2036,5,Pique Dorée
 2036,9,Gold Pick
 2036,11,ゴールドピック
+2036,12,金色三明治签
 2037,1,シルバーピック
 2037,4,银色三明治签
 2037,5,Pique Argentée
 2037,9,Silver Pick
 2037,11,シルバーピック
+2037,12,银色三明治签
 2038,1,あかいはたピック
 2038,4,红旗子三明治签
 2038,5,Pique à Fanion Rouge
 2038,9,Red-Flag Pick
 2038,11,あかいはたピック
+2038,12,红旗子三明治签
 2039,1,あおいはたピック
 2039,4,蓝旗子三明治签
 2039,5,Pique à Fanion Bleu
 2039,9,Blue-Flag Pick
 2039,11,あおいはたピック
+2039,12,蓝旗子三明治签
 2040,1,ピカピカピック
 2040,4,皮卡丘三明治签
 2040,5,Pique Pikapika
 2040,9,Pika-Pika Pick
 2040,11,ピカピカピック
+2040,12,皮卡丘三明治签
 2041,1,パチピカピック
 2041,4,眨眼皮卡丘三明治签
 2041,5,Pique à Chu Fripon
 2041,9,Winking Pika Pick
 2041,11,パチピカピック
+2041,12,眨眼皮卡丘三明治签
 2042,1,ブイブイピック
 2042,4,伊布三明治签
 2042,5,Pique Volivoli
 2042,9,Vee-Vee Pick
 2042,11,ブイブイピック
+2042,12,伊布三明治签
 2043,1,ニコブイピック
 2043,4,笑脸伊布三明治签
 2043,5,Pique Évo Rit
 2043,9,Smiling Vee Pick
 2043,11,ニコブイピック
+2043,12,笑脸伊布三明治签
 2044,1,あおボールピック
 2044,4,蓝珠珠三明治签
 2044,5,Pique à Ball Bleue
 2044,9,Blue Poké Ball Pick
 2044,11,あおボールピック
+2044,12,蓝珠珠三明治签
 2045,1,イワイノヨロイ
 2045,4,庆祝之铠
 2045,5,Armure de la Fortune
 2045,9,Auspicious Armor
 2045,11,イワイノヨロイ
+2045,12,庆祝之铠
 2046,1,かしらのしるし
 2046,4,头领凭证
 2046,5,Emblème du Général
@@ -17798,266 +17970,319 @@ item_id,local_language_id,name
 2047,5,Gourde Rose
 2047,9,Pink Bottle
 2047,11,ピンクボトル
+2047,12,粉红水壶
 2048,1,ブルーボトル
 2048,4,蓝色水壶
 2048,5,Gourde Bleue
 2048,9,Blue Bottle
 2048,11,ブルーボトル
+2048,12,蓝色水壶
 2049,1,イエローボトル
 2049,4,黄色水壶
 2049,5,Gourde Jaune
 2049,9,Yellow Bottle
 2049,11,イエローボトル
+2049,12,黄色水壶
 2050,1,Rステンレスボトル
 2050,4,红纹不锈钢水壶
 2050,5,Gourde Inox (Rouge)
 2050,9,Steel Bottle (R)
 2050,11,Rステンレスボトル
+2050,12,红纹不锈钢水壶
 2051,1,Yステンレスボトル
 2051,4,黄纹不锈钢水壶
 2051,5,Gourde Inox (Jaune)
 2051,9,Steel Bottle (Y)
 2051,11,Yステンレスボトル
+2051,12,黄纹不锈钢水壶
 2052,1,Bステンレスボトル
 2052,4,蓝纹不锈钢水壶
 2052,5,Gourde Inox (Bleue)
 2052,9,Steel Bottle (B)
 2052,11,Bステンレスボトル
+2052,12,蓝纹不锈钢水壶
 2053,1,シルバーチタンボトル
 2053,4,银钛水壶
 2053,5,Gourde Titane (Argent)
 2053,9,Silver Bottle
 2053,11,シルバーチタンボトル
+2053,12,银钛水壶
 2054,1,よこストライプカップ
 2054,4,横条纹水杯
 2054,5,Tasse à Rayures Bleues
 2054,9,Barred Cup
 2054,11,よこストライプカップ
+2054,12,横条纹水杯
 2055,1,ダイヤカップ
 2055,4,菱纹水杯
 2055,5,Tasse à Losanges
 2055,9,Diamond Pattern Cup
 2055,11,ダイヤカップ
+2055,12,菱纹水杯
 2056,1,ファイヤーカップ
 2056,4,火焰水杯
 2056,5,Tasse à Flammes
 2056,9,Fire Pattern Cup
 2056,11,ファイヤーカップ
+2056,12,火焰水杯
 2057,1,ピンクカップ
 2057,4,粉红水杯
 2057,5,Tasse Rose
 2057,9,Pink Cup
 2057,11,ピンクカップ
+2057,12,粉红水杯
 2058,1,ブルーカップ
 2058,4,蓝色水杯
 2058,5,Tasse Bleue
 2058,9,Blue Cup
 2058,11,ブルーカップ
+2058,12,蓝色水杯
 2059,1,イエローカップ
 2059,4,黄色水杯
 2059,5,Tasse Jaune
 2059,9,Yellow Cup
 2059,11,イエローカップ
+2059,12,黄色水杯
 2060,1,ピカチュウカップ
 2060,4,皮卡丘水杯
 2060,5,Tasse Pikachu
 2060,9,Pikachu Cup
 2060,11,ピカチュウカップ
+2060,12,皮卡丘水杯
 2061,1,イーブイカップ
 2061,4,伊布水杯
 2061,5,Tasse Évoli
 2061,9,Eevee Cup
 2061,11,イーブイカップ
+2061,12,伊布水杯
 2062,1,ヤドンカップ
 2062,4,呆呆兽水杯
 2062,5,Tasse Ramoloss
 2062,9,Slowpoke Cup
 2062,11,ヤドンカップ
+2062,12,呆呆兽水杯
 2063,1,シルバーチタンカップ
 2063,4,银钛水杯
 2063,5,Tasse Titane (Argent)
 2063,9,Silver Cup
 2063,11,シルバーチタンカップ
+2063,12,银钛水杯
 2064,1,バランスボール
 2064,4,瑜珈球
 2064,5,Ballon d'Exercice
 2064,9,Exercise Ball
 2064,11,バランスボール
+2064,12,瑜珈球
 2065,1,きいろチェッククロス
 2065,4,黄色格子桌巾
 2065,5,Nappe Tartan Jaune
 2065,9,Plaid Tablecloth (Y)
 2065,11,きいろチェッククロス
+2065,12,黄色格子桌巾
 2066,1,あおチェッククロス
 2066,4,蓝色格子桌巾
 2066,5,Nappe Tartan Bleue
 2066,9,Plaid Tablecloth (B)
 2066,11,あおチェッククロス
+2066,12,蓝色格子桌巾
 2067,1,あかチェッククロス
 2067,4,红色格子桌巾
 2067,5,Nappe Tartan Rouge
 2067,9,Plaid Tablecloth (R)
 2067,11,あかチェッククロス
+2067,12,红色格子桌巾
 2068,1,くさむらモノクロス
 2068,4,黑白草丛桌巾
 2068,5,Nappe Hautes Herbes
 2068,9,B&W Grass Tablecloth
 2068,11,くさむらモノクロス
+2068,12,黑白草丛桌巾
 2069,1,しょうぶクロス
 2069,4,对决桌巾
 2069,5,Nappe Combat Pokémon
 2069,9,Battle Tablecloth
 2069,11,しょうぶクロス
+2069,12,对决桌巾
 2070,1,かいじゅうクロス
 2070,4,怪兽桌巾
 2070,5,Nappe Kaiju
 2070,9,Monstrous Tablecloth
 2070,11,かいじゅうクロス
+2070,12,怪兽桌巾
 2071,1,ストライプクロス
 2071,4,条纹桌巾
 2071,5,Nappe à Rayures
 2071,9,Striped Tablecloth
 2071,11,ストライプクロス
+2071,12,条纹桌巾
 2072,1,ダイヤクロス
 2072,4,菱纹桌巾
 2072,5,Nappe à Losanges
 2072,9,Diamond Tablecloth
 2072,11,ダイヤクロス
+2072,12,菱纹桌巾
 2073,1,みずたまクロス
 2073,4,圆点桌巾
 2073,5,Nappe à Pois
 2073,9,Polka-Dot Tablecloth
 2073,11,みずたまクロス
+2073,12,圆点桌巾
 2074,1,パープルクロス
 2074,4,紫色桌巾
 2074,5,Nappe Mauve
 2074,9,Lilac Tablecloth
 2074,11,パープルクロス
+2074,12,紫色桌巾
 2075,1,ミントクロス
 2075,4,浅绿桌巾
 2075,5,Nappe Menthe
 2075,9,Mint Tablecloth
 2075,11,ミントクロス
+2075,12,浅绿桌巾
 2076,1,ベージュクロス
 2076,4,米色桌巾
 2076,5,Nappe Beige
 2076,9,Peach Tablecloth
 2076,11,ベージュクロス
+2076,12,米色桌巾
 2077,1,イエロークロス
 2077,4,黄色桌巾
 2077,5,Nappe Jaune
 2077,9,Yellow Tablecloth
 2077,11,イエロークロス
+2077,12,黄色桌巾
 2078,1,ブルークロス
 2078,4,蓝色桌巾
 2078,5,Nappe Bleue
 2078,9,Blue Tablecloth
 2078,11,ブルークロス
+2078,12,蓝色桌巾
 2079,1,ピンククロス
 2079,4,粉红桌巾
 2079,5,Nappe Rose
 2079,9,Pink Tablecloth
 2079,11,ピンククロス
+2079,12,粉红桌巾
 2080,1,ゴールドチタンボトル
 2080,4,金钛水壶
 2080,5,Gourde Titane (Or)
 2080,9,Gold Bottle
 2080,11,ゴールドチタンボトル
+2080,12,金钛水壶
 2081,1,ブロンズチタンボトル
 2081,4,铜钛水壶
 2081,5,Gourde Titane (Bronze)
 2081,9,Bronze Bottle
 2081,11,ブロンズチタンボトル
+2081,12,铜钛水壶
 2082,1,ゴールドチタンカップ
 2082,4,金钛水杯
 2082,5,Tasse Titane (Or)
 2082,9,Gold Cup
 2082,11,ゴールドチタンカップ
+2082,12,金钛水杯
 2083,1,ブロンズチタンカップ
 2083,4,铜钛水杯
 2083,5,Tasse Titane (Bronze)
 2083,9,Bronze Cup
 2083,11,ブロンズチタンカップ
+2083,12,铜钛水杯
 2084,1,みどりボールピック
 2084,4,绿珠珠三明治签
 2084,5,Pique à Ball Verte
 2084,9,Green Poké Ball Pick
 2084,11,みどりボールピック
+2084,12,绿珠珠三明治签
 2085,1,あかボールピック
 2085,4,红珠珠三明治签
 2085,5,Pique à Ball Rouge
 2085,9,Red Poké Ball Pick
 2085,11,あかボールピック
+2085,12,红珠珠三明治签
 2086,1,おいわいはなびピック
 2086,4,烟花祝庆三明治签
 2086,5,Pique Feu d'Artifice
 2086,9,Party Sparkler Pick
 2086,11,おいわいはなびピック
+2086,12,烟花祝庆三明治签
 2087,1,ゆうしゃのけんピック
 2087,4,勇者之剑三明治签
 2087,5,Pique Épée du Héros
 2087,9,Heroic Sword Pick
 2087,11,ゆうしゃのけんピック
+2087,12,勇者之剑三明治签
 2088,1,マジカルスターピック
 2088,4,魔法星星三明治签
 2088,5,Pique Étoile Magique
 2088,9,Magical Star Pick
 2088,11,マジカルスターピック
+2088,12,魔法星星三明治签
 2089,1,マジカルハートピック
 2089,4,魔法甜心三明治签
 2089,5,Pique Cœur Magique
 2089,9,Magical Heart Pick
 2089,11,マジカルハートピック
+2089,12,魔法甜心三明治签
 2090,1,パラソルピック
 2090,4,阳伞三明治签
 2090,5,Pique Parasol
 2090,9,Parasol Pick
 2090,11,パラソルピック
+2090,12,阳伞三明治签
 2091,1,あおぞらおはなピック
 2091,4,晴空花三明治签
 2091,5,Pique Fleur d'Azur
 2091,9,Blue-Sky Flower Pick
 2091,11,あおぞらおはなピック
+2091,12,晴空花三明治签
 2092,1,ゆうやけおはなピック
 2092,4,夕阳花三明治签
 2092,5,Pique Fleur du Ponant
 2092,9,Sunset Flower Pick
 2092,11,ゆうやけおはなピック
+2092,12,夕阳花三明治签
 2093,1,あさやけおはなピック
 2093,4,朝霞花三明治签
 2093,5,Pique Fleur du Levant
 2093,9,Sunrise Flower Pick
 2093,11,あさやけおはなピック
+2093,12,朝霞花三明治签
 2094,1,ブループレート
 2094,4,蓝色盘子
 2094,5,Assiette Bleue
 2094,9,Blue Dish
 2094,11,ブループレート
+2094,12,蓝色盘子
 2095,1,グリーンプレート
 2095,4,绿色盘子
 2095,5,Assiette Verte
 2095,9,Green Dish
 2095,11,グリーンプレート
+2095,12,绿色盘子
 2096,1,オレンジプレート
 2096,4,橘色盘子
 2096,5,Assiette Orange
 2096,9,Orange Dish
 2096,11,オレンジプレート
+2096,12,橘色盘子
 2097,1,レッドプレート
 2097,4,红色盘子
 2097,5,Assiette Rouge
 2097,9,Red Dish
 2097,11,レッドプレート
+2097,12,红色盘子
 2098,1,ホワイトプレート
 2098,4,白色盘子
 2098,5,Assiette Blanche
 2098,9,White Dish
 2098,11,ホワイトプレート
+2098,12,白色盘子
 2099,1,イエロープレート
 2099,4,黄色盘子
 2099,5,Assiette Jaune
 2099,9,Yellow Dish
 2099,11,イエロープレート
+2099,12,黄色盘子
 2100,1,ロトりぼう
 2100,5,Perche à Motismart
 2100,9,Roto Stick
@@ -18066,70 +18291,87 @@ item_id,local_language_id,name
 2101,5,Carte Élégance Verte
 2101,9,Teal Style Card
 2101,11,おしゃれカードみどり
+2101,12,碧之时尚名人卡
 2102,1,みどりのめん
 2102,5,Masque Turquoise
 2102,9,Teal Mask
 2102,11,みどりのめん
+2102,12,碧草面具
 2103,1,きらめくおまもり
 2103,5,Charme Éclatant
 2103,9,Glimmering Charm
 2103,11,きらめくおまもり
+2103,12,晶耀护符
 2104,1,けっしょうのかけら
 2104,5,Morceau de Cristal
 2104,9,Crystal Cluster
 2104,11,けっしょうのかけら
+2104,12,结晶碎片
 2105,1,ようせいのハネ
 2105,5,Plume Enchantée
 2105,9,Fairy Feather
 2105,11,ようせいのハネ
+2105,12,妖精之羽
 2106,1,いどのめん
 2106,5,Masque du Puits
 2106,9,Wellspring Mask
 2106,11,いどのめん
+2106,12,水井面具
 2107,1,かまどのめん
 2107,5,Masque du Fourneau
 2107,9,Hearthflame Mask
 2107,11,かまどのめん
+2107,12,火灶面具
 2108,1,いしずえのめん
 2108,5,Masque de la Pierre
 2108,9,Cornerstone Mask
 2108,11,いしずえのめん
+2108,12,础石面具
 2109,1,みついりりんご
 2109,5,Pomme Nectar
 2109,9,Syrupy Apple
 2109,11,みついりりんご
+2109,12,蜜汁苹果
 2110,1,ボンサクのちゃわん
 2110,5,Bol Médiocre
 2110,9,Unremarkable Teacup
 2110,11,ボンサクのちゃわん
+2110,12,凡作茶碗
 2111,1,ケッサクのちゃわん
 2111,5,Bol Exceptionnel
 2111,9,Masterpiece Teacup
 2111,11,ボンサクのちゃわん
+2111,12,杰作茶碗
 2112,1,たいりょくのもち
 2112,5,Mochi Santé
 2112,9,Health Mochi
 2112,11,たいりょくのもち
+2112,12,体力粘糕
 2113,1,きんりょくのもち
 2113,5,Mochi Force
 2113,9,Muscle Mochi
 2113,11,きんりょくのもち
+2113,12,肌力粘糕
 2114,1,ていこうのもち
 2114,5,Mochi Armure
 2114,9,Resist Mochi
 2114,11,ていこうのもち
+2114,12,抵抗粘糕
 2115,1,ちりょくのもち
 2115,5,Mochi Esprit
 2115,9,Genius Mochi
 2115,11,ちりょくのもち
+2115,12,智力粘糕
 2116,1,せいしんのもち
 2116,5,Mochi Mental
 2116,9,Clever Mochi
 2116,11,せいしんのもち
+2116,12,精神粘糕
 2117,1,しゅんぱつのもち
 2117,5,Mochi Sprint
 2117,9,Swift Mochi
 2117,11,しゅんぱつのもち
+2117,12,瞬发粘糕
 2118,1,まっさらもち
 2118,5,Mochi Renouveau
 2118,9,Fresh Start Mochi
@@ -18301,6 +18543,7 @@ item_id,local_language_id,name
 2160,5,Fil de Liaison
 2160,9,Linking Cord
 2160,11, つながりのヒモ
+2160,12,联系绳
 2161,5,CT172
 2161,9,TM172
 2161,11,わざマシン１７２
@@ -18477,23 +18720,34 @@ item_id,local_language_id,name
 2218,11,わざマシン２２９
 2219,5,Étrange Ball
 2219,9,Strange Ball
+2219,12,奇异球
 2220,5,Poké Ball
 2220,9,Poké Ball
+2220,12,精灵球
 2221,5,Super Ball
 2221,9,Great Ball
+2221,12,超级球
 2222,5,Hyper Ball
 2222,9,Ultra Ball
+2222,12,高级球
 2223,5,Masse Ball
 2223,9,Heavy Ball
+2223,12,沉重球
 2224,5,Mégamasse Ball
 2224,9,Leaden Ball
+2224,12,超重球
 2225,5,Gigamasse Ball
 2225,9,Gigaton Ball
+2225,12,巨重球
 2226,5,Plume Ball
 2226,9,Feather Ball
+2226,12,飞羽球
 2227,5,Envol Ball
 2227,9,Wing Ball
+2227,12,飞翼球
 2228,5,Propulse Ball
 2228,9,Jet Ball
+2228,12,飞梭球
 2229,5,Origine Ball
 2229,9,Origin Ball
+2229,12,起源球
